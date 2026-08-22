@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ManasBhahada/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ManasBhahada/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ManasBhahada/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ManasBhahada/Leetcode/tree/master/0283-move-zeroes) |
@@ -41,4 +42,8 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ManasBhahada/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ManasBhahada/Leetcode/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ManasBhahada/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
