@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ManasBhahada/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ManasBhahada/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ManasBhahada/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ManasBhahada/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ManasBhahada/Leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/ManasBhahada/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -37,5 +39,6 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ManasBhahada/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ManasBhahada/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
