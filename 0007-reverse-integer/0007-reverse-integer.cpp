@@ -1,33 +1,14 @@
 class Solution {
 public:
     int reverse(int x) {
-        if(x>0){
-            int n=0;
-            long long ans=0;
-            while(x%(long long)pow(10,n)!=x){
-                n++;
-            }
-            for(int i=1;i<=n;i++){
-                ans+=round((x%(long long)pow(10,i))*(pow(10,n-((2*i)-1))));
-                x-=(x%(long long)pow(10,i));
-            }
-            if(ans <= INT_MAX) return ans;
+        int rev = 0;
+        while (x != 0) {
+            int digit = x % 10;
+            if (rev > INT_MAX / 10 || (rev == INT_MAX / 10 && digit > 7)) return 0;
+            if (rev < INT_MIN / 10 || (rev == INT_MIN / 10 && digit < -8)) return 0;
+            rev = rev * 10 + digit;
+            x /= 10;
         }
-        else if(x<0){
-            if(x == INT_MIN) return 0;
-            x=(-1)*x;
-            int n=0;
-            long long ans=0;
-            while(x%(long long)pow(10,n)!=x){
-                n++;
-            }
-            for(int i=1;i<=n;i++){
-                ans+=round((x%(long long)pow(10,i))*(pow(10,n-((2*i)-1))));
-                x-=(x%(long long)pow(10,i));
-            }
-            ans=(-1)*ans;
-            if(ans >= INT_MIN) return ans;
-        }
-        return 0;
+        return rev;
     }
 };
