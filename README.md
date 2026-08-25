@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ManasBhahada/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/ManasBhahada/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManasBhahada/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ManasBhahada/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ManasBhahada/Leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/ManasBhahada/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ManasBhahada/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
