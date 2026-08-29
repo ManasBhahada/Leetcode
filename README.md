@@ -63,4 +63,12 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManasBhahada/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ManasBhahada/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ManasBhahada/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
