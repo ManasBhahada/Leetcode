@@ -16,6 +16,7 @@
 | [0485-max-consecutive-ones](https://github.com/ManasBhahada/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ManasBhahada/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ManasBhahada/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManasBhahada/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManasBhahada/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ManasBhahada/Leetcode/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ManasBhahada/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
