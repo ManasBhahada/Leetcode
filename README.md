@@ -19,6 +19,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ManasBhahada/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManasBhahada/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManasBhahada/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ManasBhahada/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0066-plus-one](https://github.com/ManasBhahada/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ManasBhahada/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ManasBhahada/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
