@@ -2,20 +2,14 @@ class Solution {
 public:
     bool checkDivisibility(int n) {
         int res=0;
+        int res1=1;
         int digit=0;
         int temp=n;
         while(temp>=1){
             digit=temp%10;
             res+=digit;
+            res1=res1*digit;
             temp=temp/10;
-        }
-        int res1=1;
-        int digit1=0;
-        int temp1=n;
-        while(temp1>=1){
-            digit1=temp1%10;
-            res1=res1*digit1;
-            temp1=temp1/10;
         }
         int total;
         total=res+res1;
