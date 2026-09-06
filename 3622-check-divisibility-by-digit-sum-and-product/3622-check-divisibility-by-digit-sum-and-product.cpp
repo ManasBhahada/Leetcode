@@ -13,7 +13,6 @@ public:
         }
         int total;
         total=res+res1;
-        cout << total << endl;
         if(n%total==0){
             return true;
         }
