@@ -18,6 +18,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ManasBhahada/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ManasBhahada/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManasBhahada/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManasBhahada/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ManasBhahada/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ManasBhahada/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -29,6 +30,7 @@
 | [0001-two-sum](https://github.com/ManasBhahada/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ManasBhahada/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManasBhahada/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ManasBhahada/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
@@ -56,6 +58,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManasBhahada/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
