@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/ManasBhahada/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManasBhahada/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/ManasBhahada/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ManasBhahada/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ManasBhahada/Leetcode/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ManasBhahada/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ManasBhahada/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ManasBhahada/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ManasBhahada/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManasBhahada/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -69,6 +71,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ManasBhahada/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ManasBhahada/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ManasBhahada/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -141,4 +144,16 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManasBhahada/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ManasBhahada/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ManasBhahada/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ManasBhahada/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
