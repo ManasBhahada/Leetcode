@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/ManasBhahada/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/ManasBhahada/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/ManasBhahada/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManasBhahada/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManasBhahada/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/ManasBhahada/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/ManasBhahada/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ManasBhahada/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
