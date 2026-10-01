@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ManasBhahada/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ManasBhahada/Leetcode/tree/master/0020-valid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ManasBhahada/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ManasBhahada/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
@@ -166,4 +167,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ManasBhahada/Leetcode/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ManasBhahada/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ManasBhahada/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
