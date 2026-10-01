@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManasBhahada/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ManasBhahada/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ManasBhahada/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/ManasBhahada/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ManasBhahada/Leetcode/tree/master/0169-majority-element) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ManasBhahada/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/ManasBhahada/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ManasBhahada/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ManasBhahada/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
@@ -134,6 +136,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ManasBhahada/Leetcode/tree/master/0013-roman-to-integer) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ManasBhahada/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ManasBhahada/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
