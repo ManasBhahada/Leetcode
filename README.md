@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/ManasBhahada/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManasBhahada/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ManasBhahada/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ManasBhahada/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ManasBhahada/Leetcode/tree/master/0217-contains-duplicate) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManasBhahada/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ManasBhahada/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ManasBhahada/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
