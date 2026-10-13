@@ -8,9 +8,6 @@ public:
             }
         }
         sort(nums.begin(), nums.end(),greater<int>());
-        for(int i=0;i<nums.size();i++){
-            cout << nums[i];
-        }
         if(nums.size()%2==0){
             for(int i=0;i<nums.size()/2;i++){
                 sum+=nums[i]*nums[i];
