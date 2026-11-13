@@ -229,4 +229,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManasBhahada/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ManasBhahada/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
