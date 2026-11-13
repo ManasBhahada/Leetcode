@@ -233,6 +233,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ManasBhahada/Leetcode/tree/master/0175-combine-two-tables) |
+| [1251-average-selling-price](https://github.com/ManasBhahada/Leetcode/tree/master/1251-average-selling-price) |
 | [1683-invalid-tweets](https://github.com/ManasBhahada/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ManasBhahada/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
